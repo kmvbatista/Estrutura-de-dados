@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "quicksort.h": "c",
+    "mergesort.h": "c",
+    "stdio.h": "c",
+    "insertsort.h": "c",
+    "time.h": "c"
+  }
+}
